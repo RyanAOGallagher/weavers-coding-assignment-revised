@@ -12,7 +12,7 @@ It includes the following features:
 - Virtual environment (recommended)
 
 ## Instructions
- - git clone https://github.com/RyanAOGallagher/weavers-coding-assignment.git
+ - git clone https://github.com/RyanAOGallagher/weavers-coding-assignment-revised.git
  - cd weavers-coding-assignment
  - python -m venv venv
  - pip install FastAPI[all] SQLAlchemy psycopg2-binary uvicorn
