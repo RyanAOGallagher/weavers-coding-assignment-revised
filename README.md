@@ -13,7 +13,7 @@ It includes the following features:
 
 ## Instructions
  - git clone https://github.com/RyanAOGallagher/weavers-coding-assignment-revised.git
- - cd weavers-coding-assignment
+ - cd weavers-coding-assignment-revised
  - python -m venv venv
  - pip install FastAPI[all] SQLAlchemy psycopg2-binary uvicorn
  - Open pgadmin and create new database 
